@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://smw.fyi",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  }
+}
